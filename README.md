@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e5494&height=160&section=header&text=itsSPOO | FiveM Systems Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e5494&height=160&section=header&text=SPOO%20%7C%20FiveM%20Systems%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>Systems Architect • FiveM Developer</h3>
 
@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Projects-28+-6e5494?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-QBCore-6e5494?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-2ecc71?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/FiveM-Systems%20Engineer-6e5494?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roleplay-Infrastructure-2ecc71?style=for-the-badge" />
 </p>
 
 </div>
@@ -18,10 +21,11 @@
 
 ## 🧠 About Me
 
-I specialize in building **high-performance FiveM systems** with a focus on
-scalability, exploit prevention, and modular architecture.
+I design and engineer **scalable FiveM infrastructures** built for performance,  
+security, and long-term maintainability.
 
-I create full **QBCore ecosystems** — from in-game mechanics to backend dashboards.
+Focused on crafting complete **QBCore ecosystems** — combining gameplay systems,  
+backend services, and real-time monitoring tools.
 
 ---
 
@@ -37,31 +41,43 @@ I create full **QBCore ecosystems** — from in-game mechanics to backend dashbo
 
 ### 🛡️ Security & Optimization
 
-* **Brotherhood Anti-Cheat** → Advanced detection & protection layers
-* **BH-AntiCombat** → Fair-play enforcement system
-* **FPS Optimizers** → Low-level performance tuning
+* **Brotherhood Anti-Cheat** → Multi-layer detection with server-side validation  
+* **BH-AntiCombat** → Prevents combat abuse, logging exploits & unfair advantage  
+* **FPS Optimizers** → Reduces client load and improves server stability  
 
 ### 🌐 Backend & Web
 
-* **Admin Dashboard** → Real-time economy & player monitoring
-* **Whitelist System** → Automated & scalable player vetting
-* **BrotherHood Platform** → Full community ecosystem
+* **Admin Dashboard** → Live player tracking, economy control & analytics  
+* **Whitelist System** → Automated pipeline for scalable player onboarding  
+* **BrotherHood Platform** → Integrated ecosystem (web + game + community)  
+
+---
+
+## 🧩 Architecture Philosophy
+
+- **Modular & extensible systems**  
+- **Server-side validation** over client trust  
+- **Performance-first** design decisions  
+- Clean, maintainable codebases  
 
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=tokyonight&hide_border=true&title_color=6e5494&icon_color=6e5494" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=tokyonight&hide_border=true&title_color=6e5494" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=tokyonight&hide_border=true&area=true&color=6e5494" width="100%" />
-</div>
-
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=tokyonight&hide_border=true&title_color=6e5494&icon_color=6e5494" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=tokyonight&hide_border=true&title_color=6e5494" width="49%" />
+  </div>
+  
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=itsSPOO&theme=tokyonight&hide_border=true" width="65%" />
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=tokyonight&hide_border=true&area=true&color=6e5494" width="100%" />
+  </div>
 ---
 
 ## 🌍 Network
@@ -75,5 +91,5 @@ I create full **QBCore ecosystems** — from in-game mechanics to backend dashbo
 ---
 
 <div align="center">
-  <sub>Building the future of Moroccan FiveM roleplay 🇲🇦</sub>
+  <sub>Engineering the next generation of Moroccan FiveM roleplay 🇲🇦</sub>
 </div>
