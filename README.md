@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e5494&height=160&section=header&text=itsSPOO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e5494&height=160&section=header&text=itsSPOO | FiveM Systems Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>Systems Architect • FiveM Developer</h3>
 
@@ -18,8 +18,10 @@
 
 ## 🧠 About Me
 
-I design and build scalable systems for FiveM roleplay servers, focusing on **performance, security, and clean architecture**.
-Mainly working on **custom QBCore ecosystems** and advanced server infrastructure.
+I specialize in building **high-performance FiveM systems** with a focus on
+scalability, exploit prevention, and modular architecture.
+
+I create full **QBCore ecosystems** — from in-game mechanics to backend dashboards.
 
 ---
 
@@ -65,9 +67,9 @@ Mainly working on **custom QBCore ecosystems** and advanced server infrastructur
 ## 🌍 Network
 
 <div align="center">
-  <a href="https://brotherhoodrp.site"><b>🌐 Website</b></a> • 
-  <a href="https://discord.gg/9bFFcqFXPR"><b>💬 Discord</b></a> • 
-  <a href="mailto:contact@brotherhoodrp.site"><b>📩 Contact</b></a>
+  <a href="https://brotherhoodrp.site"><b>🌐 Platform</b></a> • 
+  <a href="https://discord.gg/9bFFcqFXPR"><b>💬 Community</b></a> • 
+  <a href="mailto:contact@brotherhoodrp.site"><b>📩 Business</b></a>
 </div>
 
 ---
