@@ -65,28 +65,28 @@ backend services, and real-time monitoring tools.
 ## 📊 GitHub Analytics
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=tokyonight&hide_border=true&title_color=6e5494&icon_color=6e5494" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=tokyonight&hide_border=true&title_color=6e5494" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=tokyonight&hide_border=true&title_color=6e5494&icon_color=6e5494" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=tokyonight&hide_border=true&area=true&color=6e5494" width="48%" />
+
   </div>
   
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=itsSPOO&theme=tokyonight&hide_border=true" width="65%" />
+    <img src="https://streak-stats.demolab.com?user=itsSPOO&theme=tokyonight&hide_border=true" width="60%" />
   </div>
   
   <br/>
   
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=tokyonight&hide_border=true&area=true&color=6e5494" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=tokyonight&hide_border=true&title_color=6e5494" width="100%" />
   </div>
----
 
 ## 🌍 Network
-
-<div align="center">
-  <a href="https://brotherhoodrp.site"><b>🌐 Platform</b></a> • 
-  <a href="https://discord.gg/9bFFcqFXPR"><b>💬 Community</b></a> • 
-  <a href="mailto:contact@brotherhoodrp.site"><b>📩 Business</b></a>
-</div>
+  
+  <div align="center">
+    <a href="https://brotherhoodrp.site"><b>🌐 Platform</b></a> • 
+    <a href="https://discord.gg/9bFFcqFXPR"><b>💬 Community</b></a> • 
+    <a href="mailto:contact@brotherhoodrp.site"><b>📩 Business</b></a>
+  </div>
 
 ---
 
