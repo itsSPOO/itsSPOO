@@ -1,35 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=itsSPOO&fontSize=90&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=6e5494&height=180&section=header&text=itsSPOO&fontSize=80&animation=fadeIn" width="100%" />
 
   <h3>🌌 Systems Architect & FiveM Specialist</h3>
-  <p><i>Mastering the bridge between Game Logic and Web Ecosystems.</i></p>
+  <p><i>Designing the future of Roleplay Ecosystems through code.</i></p>
 
   <p>
-    <img src="https://img.shields.io/github/repo-count/itsSPOO?label=Projects&style=subtle&color=6e5494" />
-    <img src="https://img.shields.io/github/languages/top/itsSPOO/brotherhood-anticheat?style=subtle&color=6e5494" />
-    <img src="https://img.shields.io/github/followers/itsSPOO?style=subtle&color=6e5494" />
+    <img src="https://img.shields.io/badge/Projects-28+-6e5494?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/Expertise-QBCore-purple?style=flat-square" />
+    <img src="https://img.shields.io/badge/Location-Morocco-red?style=flat-square" />
   </p>
 </div>
 
 ---
 
-### 🛠️ The Tech Stack
+### 🛠️ Tech Stack
 <div align="center">
-  <code><b>LUA</b></code> &nbsp; <code><b>TYPESCRIPT</b></code> &nbsp; <code><b>JAVASCRIPT</b></code> &nbsp; <code><b>NODE.JS</b></code> &nbsp; <code><b>SUPABASE</b></code> &nbsp; <code><b>POSTGRES</b></code>
+  <img src="https://skillicons.dev/icons?i=lua,ts,js,nodejs,supabase,postgres,mysql,html,css,git&theme=dark" />
 </div>
 
 ---
 
-### 📂 Featured Ecosystems
+### 📂 Featured Systems Ecosystem
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
       <h4>🛡️ Security & Core</h4>
       <ul>
         <li><b>Brotherhood AC</b> - <i>Custom Anti-Cheat suite.</i></li>
         <li><b>BH-AntiCombat</b> - <i>Fair-play enforcement logic.</i></li>
-        <li><b>FPS-Optimizer</b> - <i>Dynamic resource management.</i></li>
+        <li><b>FPS-Optimizer</b> - <i>Resource management tool.</i></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -63,10 +63,16 @@
 
 ---
 
-### 📈 Activity & Insights
+### 📈 Global Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=transparent&hide_border=true&title_color=6e5494&icon_color=6e5494&text_color=777" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=transparent&hide_border=true&title_color=6e5494&text_color=777" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=tokyonight&hide_border=true&title_color=6e5494&icon_color=6e5494&text_color=9f9f9f" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=tokyonight&hide_border=true&title_color=6e5494&text_color=9f9f9f" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
@@ -79,7 +85,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsSPOO/itsSPOO/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
