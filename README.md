@@ -1,59 +1,85 @@
-<h1 align="center">itsSPOO | Senior FiveM Systems Architect 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=itsSPOO&fontSize=90&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-count/itsSPOO?label=Total%20Repositories&color=00ff00&style=for-the-badge" alt="Total Repos">
-  <img src="https://img.shields.io/github/languages/top/itsSPOO/brotherhood-anticheat?style=for-the-badge" alt="Top Language">
-</p>
+  <h3>🌌 Systems Architect & FiveM Specialist</h3>
+  <p><i>Mastering the bridge between Game Logic and Web Ecosystems.</i></p>
 
----
-
-## 🏗️ Extensive Systems Development
-I manage a massive ecosystem of over **28 repositories**, ranging from core framework modifications to advanced standalone tools. My focus is on creating a seamless bridge between game-world logic and high-level management dashboards.
-
-### 🛡️ Core Security & Performance
-* **[brotherhood-anticheat](https://github.com/itsSPOO/brotherhood-anticheat)**: A robust protection layer for FiveM servers.
-* **[BH-AntiCombat](https://github.com/itsSPOO/itsSPOO)**: System designed to prevent combat-logging and ensure fair play.
-* **[BH-FPSMENU](https://github.com/itsSPOO/itsSPOO)**: Client-side optimization tools for enhanced performance.
-
-### 🏢 Specialized Roleplay Modules (QBCore)
-* **Medical Ecosystem**: Advanced `Bh-medic` system for realistic EMS gameplay.
-* **Illegal Activities**: `BH-WEEDSYS` & `BH-vape` – deep-mechanic drug and item systems.
-* **Economic Tools**: Custom `xp-system`, `BH-garbage`, and automated job infrastructures.
-* **Navigation & Logic**: `BH-GpsPostal` & `BH-teleport-points` for world management.
-
-### 🖥️ Web & Full-Stack Dashboards
-* **[BH-DashBoard](https://github.com/itsSPOO/itsSPOO)**: High-level administration panel for server economy and player monitoring.
-* **[Whitelist-App](https://github.com/itsSPOO/itsSPOO)**: Modern JavaScript/TypeScript application for community vetting.
-* **[BrotherHood-Site](https://github.com/itsSPOO/BrotherHood-Site)**: Integrated web platform for server rules and community updates.
+  <p>
+    <img src="https://img.shields.io/github/repo-count/itsSPOO?label=Projects&style=subtle&color=6e5494" />
+    <img src="https://img.shields.io/github/languages/top/itsSPOO/brotherhood-anticheat?style=subtle&color=6e5494" />
+    <img src="https://img.shields.io/github/followers/itsSPOO?style=subtle&color=6e5494" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Ecosystem
-| Category | Stack |
-| :--- | :--- |
-| **Backend** | `Lua`, `Node.js`, `TypeScript` |
-| **Frontend** | `NUI`, `JavaScript`, `CSS3` |
-| **Database** | `MySQL`, `Supabase`, `JSON Logging` |
-| **Frameworks** | `QBCore (Primary)`, `FiveM Native API` |
+### 🛠️ The Tech Stack
+<div align="center">
+  <code><b>LUA</b></code> &nbsp; <code><b>TYPESCRIPT</b></code> &nbsp; <code><b>JAVASCRIPT</b></code> &nbsp; <code><b>NODE.JS</b></code> &nbsp; <code><b>SUPABASE</b></code> &nbsp; <code><b>POSTGRES</b></code>
+</div>
 
 ---
 
-## 📈 Experience in Numbers
-* **28+ Projects** managed across public and private environments.
-* **Full-Stack Integration**: Developing solutions that link in-game SQL data to external Web UI.
-* **UI/UX Specialist**: Custom NUI designs for items, menus, and interaction prompts.
+### 📂 Featured Ecosystems
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Security & Core</h4>
+      <ul>
+        <li><b>Brotherhood AC</b> - <i>Custom Anti-Cheat suite.</i></li>
+        <li><b>BH-AntiCombat</b> - <i>Fair-play enforcement logic.</i></li>
+        <li><b>FPS-Optimizer</b> - <i>Dynamic resource management.</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Web & Control</h4>
+      <ul>
+        <li><b>Admin Dashboard</b> - <i>Real-time economy monitoring.</i></li>
+        <li><b>Whitelist App</b> - <i>Automated community vetting.</i></li>
+        <li><b>BrotherHood-Site</b> - <i>SEO-optimized platform.</i></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Gameplay Mechanics</h4>
+      <ul>
+        <li><b>BH-Medic</b> - <i>Advanced EMS framework.</i></li>
+        <li><b>WEED-SYS</b> - <i>Deep-mechanic drug systems.</i></li>
+        <li><b>BH-Inventory</b> - <i>Customized item management.</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗺️ World Infrastructure</h4>
+      <ul>
+        <li><b>GPS-Postal</b> - <i>Precision navigation system.</i></li>
+        <li><b>BH-Teleports</b> - <i>Logic-based world transit.</i></li>
+        <li><b>Garbage Job</b> - <i>Optimized economy activity.</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔗 Project Showcase & Community
-<a href="https://brotherhoodrp.site">
-  <img src="https://img.shields.io/badge/Official_Website-Visit-000000?style=for-the-badge&logo=google-chrome" />
-</a>
-<a href="https://discord.gg/9bFFcqFXPR">
-  <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord" />
-</a>
+### 📈 Activity & Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=transparent&hide_border=true&title_color=6e5494&icon_color=6e5494&text_color=777" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=transparent&hide_border=true&title_color=6e5494&text_color=777" width="48%" />
+</div>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
+### 🤝 Connect & Community
+<div align="center">
+  <a href="https://brotherhoodrp.site"><b>Website</b></a> &bull; 
+  <a href="https://discord.gg/9bFFcqFXPR"><b>Discord</b></a> &bull; 
+  <a href="mailto:contact@brotherhoodrp.site"><b>Email</b></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsSPOO/itsSPOO/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
