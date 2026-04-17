@@ -60,27 +60,7 @@ backend services, and real-time monitoring tools.
 ---
 
 
-## 📊 GitHub Analytics
 
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&title_color=e0a11e" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=synthwave&hide_border=true&area=true&border_radius=10" />
-      </td>
-    </tr>
-  </table>
-
-  
-  <br/>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=synthwave&hide_border=true&border_radius=10&title_color=e0a11e" width="100%" />
-  </div>
-  
----
 
 ## 🌍 Network
   
