@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e5494&height=160&section=header&text=SPOO%20%7C%20FiveM%20Systems%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>Systems Architect • FiveM Developer</h3>
@@ -55,8 +53,7 @@ backend services, and real-time monitoring tools.
 
 ## 🧩 Architecture Philosophy
 
-- **Modular & extensible systems**  
-- **Server-side validation** over client trust  
+- **Modular & extensible systems** - **Server-side validation** over client trust  
 - **Performance-first** design decisions  
 - Clean, maintainable codebases  
 
@@ -65,20 +62,21 @@ backend services, and real-time monitoring tools.
 ## 📊 GitHub Analytics
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=tokyonight&hide_border=true&title_color=6e5494&icon_color=6e5494" width="48%" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=tokyonight&hide_border=true&area=true&color=6e5494" width="48%" />
-
+    <img src="https://github-readme-stats.vercel.app/api?username=itsSPOO&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&title_color=e0a11e" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSPOO&theme=synthwave&hide_border=true&area=true&border_radius=10" width="48%" />
   </div>
   
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=itsSPOO&theme=tokyonight&hide_border=true" width="60%" />
+    <img src="https://streak-stats.demolab.com?user=itsSPOO&theme=synthwave&hide_border=true&border_radius=10" width="60%" />
   </div>
   
   <br/>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=tokyonight&hide_border=true&title_color=6e5494" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSPOO&layout=compact&theme=synthwave&hide_border=true&border_radius=10&title_color=e0a11e" width="100%" />
   </div>
+
+---
 
 ## 🌍 Network
   
